@@ -1,0 +1,21 @@
+{
+  "id": "share-v1",
+  "columns": [
+    "day",
+    "district",
+    "material",
+    "weight"
+  ],
+  "types": [
+    "string",
+    "string",
+    "string",
+    "decimal(18,3)"
+  ],
+  "where": {
+    "district_in": [
+      "A",
+      "B"
+    ]
+  }
+}

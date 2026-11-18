@@ -1,0 +1,75 @@
+{
+  "s1_a": [
+    {
+      "day": "2026-10-01",
+      "district": "A",
+      "material": "paper",
+      "weight": "1.000",
+      "private_ticket": "T1"
+    },
+    {
+      "day": "2026-10-01",
+      "district": "A",
+      "material": "paper",
+      "weight": "1.000",
+      "private_ticket": "T2"
+    }
+  ],
+  "s1_b": [
+    {
+      "day": "2026-10-02",
+      "district": "B",
+      "material": "glass",
+      "weight": "2.000",
+      "private_ticket": "T3"
+    }
+  ],
+  "s2_repacked": [
+    {
+      "day": "2026-10-02",
+      "district": "B",
+      "material": "glass",
+      "weight": "2.000",
+      "private_ticket": "T3"
+    },
+    {
+      "day": "2026-10-01",
+      "district": "A",
+      "material": "paper",
+      "weight": "1.000",
+      "private_ticket": "T2"
+    },
+    {
+      "day": "2026-10-01",
+      "district": "A",
+      "material": "paper",
+      "weight": "1.000",
+      "private_ticket": "T1"
+    }
+  ],
+  "s3_changed": [
+    {
+      "day": "2026-10-01",
+      "district": "A",
+      "material": "paper",
+      "weight": "1.000",
+      "private_ticket": "T1"
+    },
+    {
+      "day": "2026-10-02",
+      "district": "C",
+      "material": "glass",
+      "weight": "2.000",
+      "private_ticket": "T3"
+    }
+  ],
+  "s4_later": [
+    {
+      "day": "2026-10-03",
+      "district": "B",
+      "material": "metal",
+      "weight": "4.000",
+      "private_ticket": "T4"
+    }
+  ]
+}

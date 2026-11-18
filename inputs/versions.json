@@ -1,0 +1,15 @@
+{
+  "S1": [
+    "s1_a.parquet",
+    "s1_b.parquet"
+  ],
+  "S2": [
+    "s2_repacked.parquet"
+  ],
+  "S3": [
+    "s3_changed.parquet"
+  ],
+  "S4": [
+    "s4_later.parquet"
+  ]
+}
