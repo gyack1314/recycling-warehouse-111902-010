@@ -10,3 +10,8 @@ coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# 产品运行产物（两仓、交接区、演示目录），不纳入版本库
+/work/
+/work_demo/
+*.duckdb.wal
